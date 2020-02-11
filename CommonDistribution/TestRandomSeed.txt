@@ -1,0 +1,70 @@
+REMOTE CONFIG A
+['sel808' 'sel102' 'sele0126' 'sele0112' 'sel45' 'sele0607' 'sel41'
+ 'sel14157' 'sel232' 'sele0110' 'sele0122' 'sel32' 'sel871' 'sele0704'
+ 'sel50' 'sele0210' 'sele0170']
+
+['sele0166' 'sele0106' 'sel230' 'sele0170' 'sel847' 'sel872' 'sel44'
+ 'sel102' 'sele0104' 'sele0405' 'sel221' 'sel103' 'sel100' 'sel14046'
+ 'sel306' 'sel116' 'sele0122']
+
+['sel34' 'sele0107' 'sel16420' 'sel16795' 'sel47' 'sele0170' 'sel14172'
+ 'sele0110' 'sel840' 'sele0114' 'sel38' 'sel16773' 'sele0106' 'sel17152'
+ 'sele0406' 'sele0409' 'sele0126']
+
+['sel213' 'sel847' 'sel43' 'sel52' 'sele0604' 'sel116' 'sel15814' 'sel31'
+ 'sele0114' 'sel50' 'sel840' 'sele0704' 'sel104' 'sele0129' 'sel306'
+ 'sel891' 'sel230']
+
+['sel821' 'sel16420' 'sel17453' 'sele0210' 'sel16265' 'sele0606' 'sel35'
+ 'sele0106' 'sele0603' 'sel221' 'sel43' 'sel231' 'sel16773' 'sel41'
+ 'sel37' 'sele0409' 'sel873']
+
+
+-------------------------------------
+REMOTE CONFIG B
+
+['sel808' 'sel102' 'sele0126' 'sele0112' 'sel45' 'sele0607' 'sel41'
+ 'sel14157' 'sel232' 'sele0110' 'sele0122' 'sel32' 'sel871' 'sele0704'
+ 'sel50' 'sele0210' 'sele0170']
+
+['sele0166' 'sele0106' 'sel230' 'sele0170' 'sel847' 'sel872' 'sel44'
+ 'sel102' 'sele0104' 'sele0405' 'sel221' 'sel103' 'sel100' 'sel14046'
+ 'sel306' 'sel116' 'sele0122']
+
+['sel34' 'sele0107' 'sel16420' 'sel16795' 'sel47' 'sele0170' 'sel14172'
+ 'sele0110' 'sel840' 'sele0114' 'sel38' 'sel16773' 'sele0106' 'sel17152'
+ 'sele0406' 'sele0409' 'sele0126']
+
+['sel213' 'sel847' 'sel43' 'sel52' 'sele0604' 'sel116' 'sel15814' 'sel31'
+ 'sele0114' 'sel50' 'sel840' 'sele0704' 'sel104' 'sele0129' 'sel306'
+ 'sel891' 'sel230']
+
+['sel821' 'sel16420' 'sel17453' 'sele0210' 'sel16265' 'sele0606' 'sel35'
+ 'sele0106' 'sele0603' 'sel221' 'sel43' 'sel231' 'sel16773' 'sel41'
+ 'sel37' 'sele0409' 'sel873']
+
+
+-------------------------------------
+LOCAL CONFIG A
+
+['sel808' 'sel102' 'sele0126' 'sele0112' 'sel45' 'sele0607' 'sel41'
+ 'sel14157' 'sel232' 'sele0110' 'sele0122' 'sel32' 'sel871' 'sele0704'
+ 'sel50' 'sele0210' 'sele0170']
+
+['sele0166' 'sele0106' 'sel230' 'sele0170' 'sel847' 'sel872' 'sel44'
+ 'sel102' 'sele0104' 'sele0405' 'sel221' 'sel103' 'sel100' 'sel14046'
+ 'sel306' 'sel116' 'sele0122']
+
+['sel34' 'sele0107' 'sel16420' 'sel16795' 'sel47' 'sele0170' 'sel14172'
+ 'sele0110' 'sel840' 'sele0114' 'sel38' 'sel16773' 'sele0106' 'sel17152'
+ 'sele0406' 'sele0409' 'sele0126']
+
+['sel213' 'sel847' 'sel43' 'sel52' 'sele0604' 'sel116' 'sel15814' 'sel31'
+ 'sele0114' 'sel50' 'sel840' 'sele0704' 'sel104' 'sele0129' 'sel306'
+ 'sel891' 'sel230']
+
+['sel821' 'sel16420' 'sel17453' 'sele0210' 'sel16265' 'sele0606' 'sel35'
+ 'sele0106' 'sele0603' 'sel221' 'sel43' 'sel231' 'sel16773' 'sel41'
+ 'sel37' 'sele0409' 'sel873']
+
+
